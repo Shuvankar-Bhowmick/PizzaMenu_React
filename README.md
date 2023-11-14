@@ -1,5 +1,5 @@
 # INTRO
-A basic static webpage made using React to replicate the menu of a Pizza cafe.
+A basic static webpage made using **React** to replicate the menu of a Pizza cafe.
 
 # Getting Started with Create React App
 
